@@ -93,15 +93,15 @@ Run the django server and excute the HTML files
 
 ## Output:
 ### map output:
-![output](./map.png)
+![](./map.png)
 ### gym output:
-![output](./gym.png)
+![](./gym.png)
 ### dart output:
-![output](dart.png/)
+![](dart.png/)
 ### bdmhs output:
-![output](./bdmhs.png)
+![](./bdmhs.png)
 ### atm output:
-![output](./atm.png)
+![](./atm.png)
 
 ## Result:
 this program is succesfully executed
