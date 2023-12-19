@@ -107,6 +107,10 @@ Run the django server and excute the HTML files
 ### atm output:
 ![atm](https://github.com/Rxhith1205/places-around-me/assets/147473311/a09bb2dc-7fa6-4193-ae84-ba3be22d0628)
 
+### temple output
+![temple](https://github.com/Rxhith1205/places-around-me/assets/147473311/9b063130-9c4f-427f-bfac-b6ed0887e39b)
+
+
 
 ## Result:
 this program is succesfully executed
