@@ -93,15 +93,20 @@ Run the django server and excute the HTML files
 
 ## Output:
 ### map output:
-![](./map.png)
+![map](https://github.com/Rxhith1205/places-around-me/assets/147473311/b6fb81af-a240-4fe5-964a-cce62a5609c0)
+
 ### gym output:
-![](./gym.png)
+![gym](https://github.com/Rxhith1205/places-around-me/assets/147473311/d0a21974-a937-4758-8707-512e57dd2c0f)
+
 ### dart output:
-![](dart.png/)
+![dart](https://github.com/Rxhith1205/places-around-me/assets/147473311/7dc52b44-c291-4bbf-af51-6944213bbbd3)
+
 ### bdmhs output:
-![](./bdmhs.png)
+![bdmhs](https://github.com/Rxhith1205/places-around-me/assets/147473311/4a3f7da6-0e9f-446c-b0d8-fe6c03e267c3)
+
 ### atm output:
-![](./atm.png)
+![atm](https://github.com/Rxhith1205/places-around-me/assets/147473311/a09bb2dc-7fa6-4193-ae84-ba3be22d0628)
+
 
 ## Result:
 this program is succesfully executed
